@@ -1,3 +1,2 @@
 # ParkerSolarApp
-Parker Solar App  is a mobile app developed for IOS and android, that represents inclution for the people with disabilities by giving an inmersive user experience.
-The user will experience the app by choosing the disability that wants to experience.
+PARKER SOLAR APP is an inclusive app for all ages  and  people with disabilities the discoveries of the Parker probe with Machine Learning & AI, allowing anyone, even with a limitation, to have an approach to this information and be able to interact with it.
